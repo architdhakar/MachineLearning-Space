@@ -1,5 +1,5 @@
-#Human Activity Recognizer- Machine Learning
-##Here are some of the key features of this project:
+Human Activity Recognizer- Machine Learning
+Here are some of the key features of this project:
 
 1. First there is some pre-proccessing of the time series data.
 2. Visualization of different activities using matplotlib.
