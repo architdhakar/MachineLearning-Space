@@ -1,4 +1,4 @@
-Human Activity Recognizer- Machine Learning
+Human Activity Recognizer- Machine Learning</br>
 Here are some of the key features of this project:
 
 1. First there is some pre-proccessing of the time series data.
