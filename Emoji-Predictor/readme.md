@@ -87,4 +87,3 @@ After training, the model was able to predict emojis with reasonable accuracy ba
 
 ---
 
-You can replace the image placeholders (`path-to-your-image/`) with actual paths to your images. You can add images showing the data preprocessing flow, model architecture, and training loss plot as visual aids.
