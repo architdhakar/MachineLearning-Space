@@ -29,10 +29,6 @@ In this project, we enhanced the PointNet architecture for improved fine-grained
 - Addressed computational overhead introduced by multi-scale processing and k-NN.
 - Balanced accuracy improvement with increased memory usage.
 
-## Future Work
-- Extend PMFI to point cloud segmentation tasks for scene understanding.
-- Enhance self-supervised learning approaches to further minimize reliance on labeled datasets.
-
 ## Collaborators
 - Akshat Pratap Singh, Archit Dhakar
 
